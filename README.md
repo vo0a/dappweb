@@ -1,4 +1,4 @@
 # node_html
-node_html
+node_html heroku 배포
 
-https://sotoedu.herokuapp.com/
+https://blockchain-app-web.herokuapp.com/
